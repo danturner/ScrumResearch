@@ -1,0 +1,1 @@
+This is a paper that Alfred Lorber and I are writing about using scrum in a research context. All of this material is copyright to the authors and may not be reproduced.
